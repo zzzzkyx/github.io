@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 昼夜不离</title>
-    <link>https://zzzzkyx.github.io/post/</link>
+    <link>https://www.zhouyebuli.com/post/</link>
     <description>Recent content in Posts on 昼夜不离</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 05 Oct 2019 19:20:04 +0900</lastBuildDate>
     
-	<atom:link href="https://zzzzkyx.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.zhouyebuli.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>第一篇</title>
-      <link>https://zzzzkyx.github.io/post/first-article/</link>
+      <link>https://www.zhouyebuli.com/post/first-article/</link>
       <pubDate>Sat, 05 Oct 2019 19:20:04 +0900</pubDate>
       
-      <guid>https://zzzzkyx.github.io/post/first-article/</guid>
-      <description>好久没有写bo了，上次写bo用的还是忍者。 以前很喜欢蹲黑白的bo楼，微博和网易轻博客出来后可以蹲的bo越来越少，自己也越来越浮躁看不下去长篇文字了。
+      <guid>https://www.zhouyebuli.com/post/first-article/</guid>
+      <description>好久没有写bo了，上次写bo用的还是忍者。
+以前很喜欢蹲黑白的bo楼，微博和网易轻博客出来后可以蹲的bo越来越少，自己也越来越浮躁看不下去长篇文字了。
 时隔很久的bo，希望可以坚持下去。</description>
     </item>
     
